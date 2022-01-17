@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요! Backend Developer 이용관입니다  👋
 
 
 ## Github Stats
