@@ -1,5 +1,6 @@
 ## 💁🏻‍♂️ About Me (Lee Yong Gwan)
-안녕하세요! 백엔드 개발자 이용관입니다.
+* Back-End Developer
+* Java / Spring
 
 
 ## Github Stats
