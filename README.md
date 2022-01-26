@@ -1,7 +1,7 @@
 ## 💁🏻‍♂️ About Me (Lee Yong Gwan)
-* Back-End Developer
+* Back-End Developer(junior)
 * Java / Spring Framework
-
+ 
 
 ## Github Stats
 
