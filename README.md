@@ -1,5 +1,5 @@
 ## 💁🏻‍♂️ About Me (Lee Yong Gwan)
-* Back-End Developer(junior)
+* Back-End Developer
 * Java / Spring Framework
  
 
