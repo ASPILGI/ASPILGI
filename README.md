@@ -1,4 +1,3 @@
 ## 💁🏻‍♂️ About Me (Lee Yong Gwan)
-* Back-End Developer
+* React
 * Java / Spring Framework
- 
