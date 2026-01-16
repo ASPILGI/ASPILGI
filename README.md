@@ -21,5 +21,4 @@ SI/SM 환경에서 시스템 분석·설계·구축·운영·고도화 전 과�
 ---
 
 ### 🔹 Links
-- GitHub: https://github.com/ASPILGI
 - Velog (기술 기록): https://velog.io/@aspilgi
