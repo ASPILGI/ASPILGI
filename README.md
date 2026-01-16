@@ -7,7 +7,7 @@ SI/SM 환경에서 시스템 분석·설계·구축·운영·고도화 전 과�
 
 ---
 
-### Main Project
+### 🔹Main Project
 
 #### Devlog – JWT 기반 인증/권한 백엔드 API
 - Java / Spring Boot 기반 블로그 REST API 개인 프로젝트
@@ -20,5 +20,5 @@ SI/SM 환경에서 시스템 분석·설계·구축·운영·고도화 전 과�
 
 ---
 
-### 🔹 Links
+### 🔹Links
 - Velog (기술 기록): https://velog.io/@aspilgi
